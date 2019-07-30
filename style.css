@@ -1,5 +1,6 @@
-html
-{
+body
+{ 
+	text-indent: 1em;
 	background-color: #2d3439;
 	font-size: 13px;
 	font-family: "-apple-system", BlinkMacSystemFont, Roboto, Segoe UI, Segoe WP, Helvetica Neue, Lucida Grande, Verdana, Tahoma, Arial, sans-serif;
@@ -11,10 +12,8 @@ html
 	bottom: 0;
 	outline: none;
 	cursor: pointer;
-	text-decoration: none;	 
+	text-decoration: none;	
 }
-
-body { text-indent: 1em; }
 
 bot { color: #f4cb67; }
 
